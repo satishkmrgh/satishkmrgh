@@ -1,4 +1,5 @@
 👋 Hi, I’m @ Satish Kumar Akrura  
+- Marketing & Business Analyst.
 - 👀 I’m interested in leveraging data analytics and business intelligence to drive impactful decision-making, particularly in industries like online gaming, healthcare, and enterprise software.  
 - 🌱 I’m currently learning advanced analytics techniques, business process optimization, and tools like OSI-PI, RT Reports, SCADA integration platforms, and AI-driven decision systems.  
 - 💞️ I’m looking to collaborate on projects involving data modeling, CRM optimization, sales and marketing analytics, and compliance-driven process automation.  
